@@ -13,16 +13,8 @@ To set up the project, follow these steps:
    ```sh
    git clone https://github.com/Muhammad-Usman678/NeuroVision-Explorer.git
    cd NeuroVision-Explorer
-## Usage
-To use the NeuroVision Explorer, follow these steps:
 
-**Run the Jupyter Notebook:**
-First, you need to open the Jupyter Notebook. Run the following command to start Jupyter Notebook:
-
-jupyter notebook NeuroVision\ Explorer.ipynb
-This will open Jupyter Notebook in your web browser and allow you to interact with the NeuroVision Explorer.ipynb notebook.
-
-**Analyze the Data:**
+## Analyze the Data:
 Next, open the NeuroVision Explorer.ipynb notebook in Jupyter. Follow the instructions within the notebook and execute the cells to process and analyze the dataset. The notebook is designed to guide you through the analysis steps, providing visualizations and insights into the spatial transcriptomics data.
 
 **Contributing**
